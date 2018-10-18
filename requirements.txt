@@ -1,0 +1,2 @@
+pyserial==3.4
+rpi.gpio==0.6.3
