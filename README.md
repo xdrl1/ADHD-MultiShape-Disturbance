@@ -66,7 +66,7 @@
     | ------ | -------- | -------- | -------- |
     | blue   | 00       | square   | 00       |
     | yellow | 01       | triangle | 01       |
-    | red    | 10       | round    | 10       |
-    | green  | 11       | pentagon | 11       |
+    | red    | 02       | round    | 02       |
+    | green  | 03       | pentagon | 03       |
 
 -   数据包格式和内容详见石墨文档
