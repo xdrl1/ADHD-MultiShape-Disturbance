@@ -4,7 +4,7 @@ a subsytem of WeDA (CHI 2020)
 
 > [WeDA: Designing and Evaluating A Scale-driven Wearable Diagnostic Assessment System for Children with ADHD](https://dl.acm.org/doi/10.1145/3313831.3376374)
 
-![9bc9ca37-5313-4fcd-a9dd-70a22dc56a7e.png](https://storage.live.com/items/A0F74AFD0BA8282D!1053227?authkey=ABXqzzrLcu36XDU)![9bc9ca37-5313-4fcd-a9dd-70a22dc56a7e.png](https://storage.live.com/items/A0F74AFD0BA8282D!1053227?authkey=ABXqzzrLcu36XDU)
+![9bc9ca37-5313-4fcd-a9dd-70a22dc56a7e.png](https://storage.live.com/items/A0F74AFD0BA8282D!1053227?authkey=ABXqzzrLcu36XDU)
 
 The image above uses `./3D_Print_SourceCode/tri_box.scad`. Additional hardware requirements, software configuration, data specifications and circuit diagrams are shown below (in Chinese).
 
