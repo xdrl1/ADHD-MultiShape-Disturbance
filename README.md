@@ -6,7 +6,17 @@ a subsytem of WeDA (CHI 2020)
 
 ![9bc9ca37-5313-4fcd-a9dd-70a22dc56a7e.png](https://storage.live.com/items/A0F74AFD0BA8282D!1053227?authkey=ABXqzzrLcu36XDU)
 
-The image above uses `./3D_Print_SourceCode/tri_box.scad`. Additional hardware requirements, software configuration, data specifications and circuit diagrams are shown below (in Chinese).
+The image above uses `./3D_Print_SourceCode/tri_box.scad`. Additional hardware requirements, software configuration, data specifications and circuit diagrams are shown below (in Chinese). One may use [OpenSCAD](https://openscad.org/) to generate `.gcode` files for 3D printing
+
+There is another version using servo motors. Involving files include:
+
+- `./3D_Print_SourceCode/NfcBox_Ard.scad`
+- `./3D_Print_SourceCode/NfcBox_Top.scad`
+- `./3D_Print_SourceCode/NfcReaderSupporter.scad`
+- `./3D_Print_SourceCode/ServoSupporter.scad`
+- `./3D_Print_SourceCode/NfcTopShape*`
+
+![faab0583-7adb-474c-b290-4bfdbf8f8758.png](https://storage.live.com/items/A0F74AFD0BA8282D!1053249?authkey=ABXqzzrLcu36XDU)
 
 ## 一、硬件清单
 
